@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "id": 6,
+      "name": "Rajoo Yadav",
+      "email": "rajoo@gmail.com",
+      "phone": "06387148659"
+    },
+    {
+      "id": 7,
+      "name": "Rajoo Yadav",
+      "email": "yadavrajoo@gmail.com",
+      "phone": "06387148659"
+    }
+  ]
+}
